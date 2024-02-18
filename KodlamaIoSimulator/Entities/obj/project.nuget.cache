@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oMDgoO8JdfLkmU1rwEoUJY01RrV/Nn929qLgQKE1xgIcZxhqJqNpphxVcmdC8EquSg3TWgSA5AzPEeIIKTMA4w==",
+  "dgSpecHash": "PbCiGIjCaaobAymiWCSHhGwXfMCoq6Q5zgwfjGuTYhlEgNB/FDoj1PvAaSS/B22ZDquPGsSvGieOEgvIP+fhqA==",
   "success": true,
-  "projectFilePath": "D:\\C#-Course\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj",
+  "projectFilePath": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

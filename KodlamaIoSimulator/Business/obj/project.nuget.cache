@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "s+MLtIeHTUqCX+cE8YOCYO4YFtgwD2IDjZlDQZiwHYcpVzBfMii1XTb5kikiEJvCvETtUxDhqEyrW85BVRwKIw==",
+  "dgSpecHash": "EuXnG6j9OK+8qEpbath/F9MKV+MsevgW8v4DVUvVxaB/N/yVGTBUTOJZaA3WkxKMawJfHiXOB6AMva8zlaBO1Q==",
   "success": true,
-  "projectFilePath": "D:\\C#-Course\\KodlamaIoSimulator\\Business\\BusinessLayer.csproj",
+  "projectFilePath": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\Business\\BusinessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BusinessLayer
-build_property.ProjectDir = D:\C#-Course\KodlamaIoSimulator\Business\
+build_property.ProjectDir = D:\Github\KodlamaIoSimulate\KodlamaIoSimulator\Business\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

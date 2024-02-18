@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0O6pDJ5j+ObhHtUci4+VJJyXn1hTTBsZcZZv3KZyixJj+BH8GCQPhe4Su/aquXYWL2E3FefoAsLTqcYvG+7yGg==",
+  "dgSpecHash": "RmtYw061YmoDMp06mavbqBtFB/BBypR0HCscJP/fFKyc3/hXbjBQNgRNQOIhJV0zJN7O0o/liHTUOaZMt09u3w==",
   "success": true,
-  "projectFilePath": "D:\\C#-Course\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj",
+  "projectFilePath": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

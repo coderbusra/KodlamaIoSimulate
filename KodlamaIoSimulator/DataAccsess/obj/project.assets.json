@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#-Course\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj",
+      "projectUniqueName": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj",
       "projectName": "DataAccsessLayer",
-      "projectPath": "D:\\C#-Course\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj",
+      "projectPath": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj",
       "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
-      "outputPath": "D:\\C#-Course\\KodlamaIoSimulator\\DataAccsess\\obj\\",
+      "outputPath": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\DataAccsess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\C#-Course\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj": {
-              "projectPath": "D:\\C#-Course\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj"
+            "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj": {
+              "projectPath": "D:\\Github\\KodlamaIoSimulate\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj"
             }
           }
         }
