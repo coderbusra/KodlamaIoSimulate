@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "KodlamaIoSimulator/1.0.0": {
+        "dependencies": {
+          "BusinessLayer": "1.0.0",
+          "DataAccsessLayer": "1.0.0",
+          "EntitiyLayer": "1.0.0"
+        },
+        "runtime": {
+          "KodlamaIoSimulator.dll": {}
+        }
+      },
+      "BusinessLayer/1.0.0": {
+        "dependencies": {
+          "DataAccsessLayer": "1.0.0",
+          "EntitiyLayer": "1.0.0"
+        },
+        "runtime": {
+          "BusinessLayer.dll": {}
+        }
+      },
+      "DataAccsessLayer/1.0.0": {
+        "dependencies": {
+          "EntitiyLayer": "1.0.0"
+        },
+        "runtime": {
+          "DataAccsessLayer.dll": {}
+        }
+      },
+      "EntitiyLayer/1.0.0": {
+        "runtime": {
+          "EntitiyLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KodlamaIoSimulator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DataAccsessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EntitiyLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

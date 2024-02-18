@@ -1,0 +1,15 @@
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\bin\Debug\net8.0\DataAccsessLayer.deps.json
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\bin\Debug\net8.0\DataAccsessLayer.dll
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\bin\Debug\net8.0\DataAccsessLayer.pdb
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\bin\Debug\net8.0\EntitiyLayer.dll
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\bin\Debug\net8.0\EntitiyLayer.pdb
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.csproj.AssemblyReference.cache
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.AssemblyInfoInputs.cache
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.AssemblyInfo.cs
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.csproj.CoreCompileInputs.cache
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.csproj.CopyComplete
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.dll
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\refint\DataAccsessLayer.dll
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\DataAccsessLayer.pdb
+D:\C#-Course\KodlamaIoSimulator\DataAccsess\obj\Debug\net8.0\ref\DataAccsessLayer.dll

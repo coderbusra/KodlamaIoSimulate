@@ -1,0 +1,11 @@
+D:\C#-Course\KodlamaIoSimulator\Entities\bin\Debug\net8.0\EntitiyLayer.deps.json
+D:\C#-Course\KodlamaIoSimulator\Entities\bin\Debug\net8.0\EntitiyLayer.dll
+D:\C#-Course\KodlamaIoSimulator\Entities\bin\Debug\net8.0\EntitiyLayer.pdb
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\EntitiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\EntitiyLayer.AssemblyInfoInputs.cache
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\EntitiyLayer.AssemblyInfo.cs
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\EntitiyLayer.csproj.CoreCompileInputs.cache
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\EntitiyLayer.dll
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\refint\EntitiyLayer.dll
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\EntitiyLayer.pdb
+D:\C#-Course\KodlamaIoSimulator\Entities\obj\Debug\net8.0\ref\EntitiyLayer.dll

@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "BusinessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "DataAccsessLayer": "1.0.0",
+          "EntitiyLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BusinessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessLayer.dll": {}
+        }
+      },
+      "DataAccsessLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "EntitiyLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DataAccsessLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DataAccsessLayer.dll": {}
+        }
+      },
+      "EntitiyLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/EntitiyLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EntitiyLayer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BusinessLayer/1.0.0": {
+      "type": "project",
+      "path": "../Business/BusinessLayer.csproj",
+      "msbuildProject": "../Business/BusinessLayer.csproj"
+    },
+    "DataAccsessLayer/1.0.0": {
+      "type": "project",
+      "path": "../DataAccsess/DataAccsessLayer.csproj",
+      "msbuildProject": "../DataAccsess/DataAccsessLayer.csproj"
+    },
+    "EntitiyLayer/1.0.0": {
+      "type": "project",
+      "path": "../Entities/EntitiyLayer.csproj",
+      "msbuildProject": "../Entities/EntitiyLayer.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "BusinessLayer >= 1.0.0",
+      "DataAccsessLayer >= 1.0.0",
+      "EntitiyLayer >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Büşra\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\C#-Course\\KodlamaIoSimulator\\ConsoleApp\\KodlamaIoSimulator.csproj",
+      "projectName": "KodlamaIoSimulator",
+      "projectPath": "D:\\C#-Course\\KodlamaIoSimulator\\ConsoleApp\\KodlamaIoSimulator.csproj",
+      "packagesPath": "C:\\Users\\Büşra\\.nuget\\packages\\",
+      "outputPath": "D:\\C#-Course\\KodlamaIoSimulator\\ConsoleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Büşra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "D:\\C#-Course\\KodlamaIoSimulator\\Business\\BusinessLayer.csproj": {
+              "projectPath": "D:\\C#-Course\\KodlamaIoSimulator\\Business\\BusinessLayer.csproj"
+            },
+            "D:\\C#-Course\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj": {
+              "projectPath": "D:\\C#-Course\\KodlamaIoSimulator\\DataAccsess\\DataAccsessLayer.csproj"
+            },
+            "D:\\C#-Course\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj": {
+              "projectPath": "D:\\C#-Course\\KodlamaIoSimulator\\Entities\\EntitiyLayer.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
