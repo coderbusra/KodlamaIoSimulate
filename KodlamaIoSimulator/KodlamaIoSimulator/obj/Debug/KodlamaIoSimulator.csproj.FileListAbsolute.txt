@@ -1,7 +1,0 @@
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\bin\Debug\KodlamaIoSimulator.exe.config
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\bin\Debug\KodlamaIoSimulator.exe
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\bin\Debug\KodlamaIoSimulator.pdb
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\obj\Debug\KodlamaIoSimulator.csproj.AssemblyReference.cache
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\obj\Debug\KodlamaIoSimulator.csproj.CoreCompileInputs.cache
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\obj\Debug\KodlamaIoSimulator.exe
-D:\C#-Course\KodlamaIoSimulator\KodlamaIoSimulator\obj\Debug\KodlamaIoSimulator.pdb
